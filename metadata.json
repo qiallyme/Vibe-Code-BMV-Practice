@@ -1,0 +1,6 @@
+{
+  "name": "BMV Practice Test & Sign Exam",
+  "description": "Indiana BMV practice exam with blank sign identification test and on-demand translations in Pashto, Spanish, Punjabi, and Hindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
